@@ -1,0 +1,21 @@
+docs/verification.md
+  s_3940421e200709::t_6b4565b6f964b0 1-4,6-26,28,30-32,34-64
+  s_3940421e200709::t_ccd1802db45d88 29
+  s_3940421e200709::t_0afb0c55dc158f 5,27,33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "18b1a3699a4dd94655b559077645b09e07669f8f",
+  "prompts": {},
+  "sessions": {
+    "s_3940421e200709": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a165e0-77d7-77f2-a6af-2bcf57316871",
+        "model": "gpt-6-sol"
+      },
+      "human_author": null
+    }
+  }
+}
